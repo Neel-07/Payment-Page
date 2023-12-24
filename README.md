@@ -1,5 +1,5 @@
 # Payment-Page
-<center>
+
   
 A simple frontend project featuring a payment page developed using HTML and CSS.
 
