@@ -76,7 +76,7 @@ body {
     line-height: 1.5;
 }
 .payment-content {
-    padding: 24px;
+    padding: 22px;
     margin-top: -64px;
     position: relative;
 }
@@ -97,8 +97,9 @@ body {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
 .payment-right {
-    margin-left: 20px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    margin: 20px;
+    border-radius: 10px;
 }
 
 .payment-form-control,
